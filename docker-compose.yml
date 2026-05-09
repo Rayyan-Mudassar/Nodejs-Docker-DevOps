@@ -1,5 +1,5 @@
 name: "nodeapp"
-
+wsw
 services:
   db:
     image: postgres:15-alpine
